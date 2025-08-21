@@ -1,0 +1,3 @@
+vaderSentiment
+textplumber>=0.0.10
+
