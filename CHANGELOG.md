@@ -2,6 +2,8 @@
 
 ## [1.0.2] - 2025-08-22 - release to use Textplumber 0.1.11, separate out challenges / lab notebooks
 
+Note: this is the first release via Github releases. 
+
 ## Added
 
 - Add notebook (Sentiment Analysis Challenges.ipynb) to introduce VADER and explain challenges of sentiment measurement
