@@ -1,16 +1,20 @@
-# Sentiment Analysis for DIGI405
+# Sentiment Analysis Introduction
 
-The notebooks in this repository are provided for students in DIGI405 at the University of Canterbury for a lab introducing sentiment analysis.   
+The notebooks in this repository are provided for students in DIGI405 at the University of Canterbury to introduce challenges of measuring sentiment and to work through 
+an example of sentiment classification task comparing lexicons with basic classifiers.  
 
-Changes and release version numbers are documented in the [CHANGELOG](CHANGELOG.md).  
+We appreciate this notebook may be relevant for others. If you use it please retain the authorship information and links or cite it.  
+
+Changes and release version numbers are documented in the [CHANGELOG](CHANGELOG.md).   
 
 ## Acknowledgements
 
-Geoff Ford did the primary work on this notebook. 
+[Geoff Ford](https://geoffford.nz) is the main developer of these notebooks. 
 
-The following people have contributed:
+The following people have contributed through input on very early versions, edits, and testing:
+- Chris Thomson   
 - Karin Stahel  
-- Chris Thomson  
+- DIGI405 tutors since 2019
 
 ## Instructions for DIGI405 students
 
