@@ -1,6 +1,6 @@
 # Change log
 
-## [1.0.2] - TODO in progress - Textplumber-based release, Challenges and lab notebooks
+## [1.0.2] - 2025-08-22 - release to use Textplumber 0.1.11, separate out challenges / lab notebooks
 
 ## Added
 
@@ -8,7 +8,7 @@
 
 ## Changed
 
-- Notebook revisions to incorporate textplumber VADER sentiment functionality
+- Notebook revisions to incorporate Textplumber VADER sentiment functionality
 
 ## [1.0.1] - 2025-05-07 - release to DIGI405-25S1 class
 
